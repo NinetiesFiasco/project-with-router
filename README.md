@@ -1,4 +1,4 @@
-# empty-project
+# vue-router
 
 ## Project setup
 ```

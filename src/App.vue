@@ -1,15 +1,11 @@
 <template>
-  <EmptyComponent />
+  <div></div>
 </template>
 
 <script>
-import EmptyComponent from './components/EmptyComponent.vue'
 
 export default {
-  name: 'App',
-  components: {
-    EmptyComponent
-  }
+  name: 'App'
 }
 </script>
 
